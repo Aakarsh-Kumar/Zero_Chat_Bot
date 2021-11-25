@@ -1,4 +1,5 @@
 import nltk
+nltk.download()
 import string
 import math
 
